@@ -103,7 +103,7 @@ Number,DOI,year,Material (accurate),Material,Material(element),RE,RE_C,WE(substr
 44,https://doi.org/10.1002/slct.202001561,2020,NiCuFe-ANPs/ERGO/CE,Ni_Cu_Fe_rGO,Ni_Cu_Fe_O_C,Ag/AgCl,Sat.,CC,C,KOH,"0,1","0,005",50,"11,66","0,36","0,8","170,35",,,"0,559","0,999","0,44"
 45,https://doi.org/10.17576/jsm-2020-4912-26,2020,Pd/CNF,Pd_CNF,Pd_C,SCE,Sat.,GCE,C,KOH,1,"0,5",50,"13,45","-0,4","-0,12",50,,,"-0,156","0,124","0,28"
 45,https://doi.org/10.17576/jsm-2020-4912-26,2020,Au/CNF,Au_CNF,Au_C,SCE,Sat.,GCE,C,KOH,1,"0,5",50,"13,45","-0,4","-0,1",45,,,"-0,156","0,144","0,3"
-45,https://doi.org/10.17576/jsm-2020-4912-26,2020,PdAu/CNF,Pd_Au_CNF,Pd_Au_CF,SCE,Sat.,GCE,C,KOH,1,"0,5",50,"13,45","-0,4","-0,09",70,,,"-0,156","0,154","0,31"
+45,https://doi.org/10.17576/jsm-2020-4912-26,2020,PdAu/CNF,Pd_Au_CNF,Pd_Au_C,SCE,Sat.,GCE,C,KOH,1,"0,5",50,"13,45","-0,4","-0,09",70,,,"-0,156","0,154","0,31"
 46,https://doi.org/10.1039/D0TA02509G,2020,75ALD(SnO2)-Pt/C (HT),Pt_Sn_O_C,Pt_Sn_O_C,SHE,standard,GCE,C,H2SO4,"0,5",2,50,"-0,32","0,556","0,856","0,428",,"0,22","0,556","0,856","0,3"
 47,https://doi.org/10.1039/d0na00252f,2020,PtPd@Ag-NH3,Pt_Pd_Ag,Pt_Pd_Ag,RHE,standard,GCE,C,HClO4,"0,1",1,10,"-0,03","0,57","0,83","0,59",,"0,08","0,511","0,771","0,26"
 47,https://doi.org/10.1039/d0na00252f,2020,PtPd@Ag-NH3,Pt_Ag,Pt_Ag,RHE,standard,GCE,C,KOH,"0,1",1,10,"13,98","0,68","0,99","6,05",,"0,08","-0,0693","0,2407","0,31"
@@ -119,7 +119,7 @@ Number,DOI,year,Material (accurate),Material,Material(element),RE,RE_C,WE(substr
 53,https://doi.org/10.1016/j.jcat.2019.10.037,2019,Au@Ag,Au_Ag,Au_Ag,RHE,standard,GCE,C,KOH,"0,1",1,10,"13,98","0,71","1,41",2,,,"-0,0393","0,6607","0,7"
 54,https://doi.org/10.1002/elan.201900611,2020,20 % Pd/MWCNT ,Pd_CNT,Pd_C,NHE,standard,GCE,C,KOH,"0,5","0,1",30,"12,83","-0,3","0,1878","9,906",,,"-0,3","0,1878","0,4878"
 55,https://doi.org/10.1002/advs.202105344,2022,PtNDs@CoS2-NrGO ,Pt_Co_S_N_rGO,Pt_Co_S_N_O_C,Ag/AgCl,Sat.,GCE,C,H2SO4,"0,5",1,50,"-0,03","0,39","0,66582","0,43812",,"0,001","0,589","0,86482","0,27582"
-56,https://doi.org/10.1016/j.apcatb.2023.123104,2023,SbOx-Pt/OMC-2,Sb_O_Pt_OMC,Sb_O_Pt_OMC,RHE,standard,GCE,C,H2SO4,"0,5",2,50,"-0,32","0,723","0,9205","54,40554",,"0,1998","0,74129","0,93879","0,1975"
+56,https://doi.org/10.1016/j.apcatb.2023.123104,2023,SbOx-Pt/OMC-2,Sb_O_Pt_OMC,Sb_O_Pt_C,RHE,standard,GCE,C,H2SO4,"0,5",2,50,"-0,32","0,723","0,9205","54,40554",,"0,1998","0,74129","0,93879","0,1975"
 57,https://doi.org/10.1016/j.mcat.2022.112874,2023,Pt@PdS2-MWCNT,Pt_Pd_S_CNT,Pt_Pd_S_C,Ag/AgCl,Sat.,GCE,C,H2SO4,"0,5",1,50,"-0,03","0,353","0,6","58,44",,,"0,552","0,799","0,247"
 58,https://doi.org/10.1016/j.ijhydene.2012.12.030,2013,Pd/C/PMMA,Pd_C,Pd_C,NHE,standard,Org,C,KOH,"0,3","0,1",20,"12,89","-0,2","0,045","13,86",,"1,3","-0,2","0,045","0,245"
 58,https://doi.org/10.1016/j.ijhydene.2012.12.030,2013,Pd/MWCNT/PMMA,Pd_CNT,Pd_C,NHE,standard,Org,C,KOH,"0,3","0,1",20,"12,89","-0,2497","0,005",25,,"1,6","-0,2497","0,005","0,2547"
@@ -146,11 +146,7 @@ Number,DOI,year,Material (accurate),Material,Material(element),RE,RE_C,WE(substr
 72,https://doi.org/10.1016/j.fuel.2022.126471,2022,Pd/ CNTs,Pd_CNT,Pd_C,Ag/AgCl,Sat.,CF,C,KOH,"0,5","0,5",50,"13,56","-0,35","0,069","48,67",,,"-0,151","0,268","0,419"
 72,https://doi.org/10.1016/j.fuel.2022.126471,2022,P doped/ PdCNTs ,Pd_CNT_P,Pd_C_P,Ag/AgCl,Sat.,CF,C,KOH,"0,5","0,5",50,"13,56","-0,35","0,1","69,33",,,"-0,151","0,299","0,45"
 72,https://doi.org/10.1016/j.fuel.2022.126471,2022,N doped/PdCNTs ,Pd_CNT_N,Pd_C_N,Ag/AgCl,Sat.,CF,C,KOH,"0,5","0,5",50,"13,56","-0,35","0,1",60,,,"-0,151","0,299","0,45"
-<<<<<<< HEAD
 73,https://doi.org/10.1002/celc.202300570,2024,Ni(OH)2/GCE,Ni_O_OH,Ni_O_O_H,RHE,standard,GCE,C,NaOH,1,"0,1",50,"12,71","1,36",,3,,,"0,61011",,
-=======
-73,https://doi.org/10.1002/celc.202300570,2024,Ni(OH)2/GCE,Ni_O_OH,Ni_O_OH,RHE,standard,GCE,C,NaOH,1,"0,1",50,"12,71","1,36",,3,,,"0,61011",,
->>>>>>> 8caffa4ecad8693d5be8dd6054fa19c661e2efcb
 74,https://doi.org/10.1021/acsaem.3c03111,2024,Ag(0.5)/Pt,Ag,Ag,Hg/HgO,Sat.,Pt,Pt,NaOH,1,"0,5",20,"13,45","-0,5","-0,01","11,45",,,"-0,64","-0,15","0,49"
 75,https://doi.org/10.1021/acssuschemeng.8b00721,2024,Pd68Ni26/rGO,Pd_Ni_rGO,Pd_Ni_O_C,SCE,Sat.,GCE,C,NaOH,1,"0,5",50,"13,45","-0,4","-0,2857",44,,,"-0,156","-0,0417","0,1143"
 75,https://doi.org/10.1021/acssuschemeng.8b00721,2024,Pt73Pd27/rGO,Pt_Pd_rGO,Pt_Pd_O_C,SCE,Sat.,GCE,C,NaOH,1,"0,5",50,"13,45","-0,51","-0,2893",62,,,"-0,266","-0,0453","0,2207"
@@ -206,7 +202,7 @@ Number,DOI,year,Material (accurate),Material,Material(element),RE,RE_C,WE(substr
 99,https://doi.org/10.1039/c6ra28864b,2017,Pd/SiO2,Pd_Si_O,Pd_Si_O,RHE,standard,GCE,C,KOH,"0,1","0,2",50,"13,27","0,6",1,"21,6215",,,"-0,18293","0,21707","0,4"
 99,https://doi.org/10.1039/c6ra28864b,2017,Pd,Pd,Pd,RHE,standard,GCE,C,KOH,"0,1","0,2",50,"13,27","0,6","1,026","16,926",,,"-0,18293","0,24307","0,426"
 100,https://doi.org/10.1039/c8nr04741c,2018,np-PtGa foil,Pt_Ga,Pt_Ga,Ag/AgCl,Sat.,Pt,Pt,H2SO4,"0,5","0,5",50,"0,24","0,457","0,678","60,934",,,"0,656","0,877","0,221"
-100,https://doi.org/10.1016/j.jelechem.2014.10.010,2014,Au/C,Au_VC,Au_VC,RHE,standard,GCD,C,NaOH,"0,1","0,1",50,"12,96","0,6","1,2",120,,,"-0,16464","0,43536","0,6"
+100,https://doi.org/10.1016/j.jelechem.2014.10.010,2014,Au/C,Au_VC,Au_C,RHE,standard,GCD,C,NaOH,"0,1","0,1",50,"12,96","0,6","1,2",120,,,"-0,16464","0,43536","0,6"
 101,https://doi.org/10.1007/s10800-018-1155-9,2018,Au/C,Au_C,Au_C,Hg/HgO,Sat.,GCE,C,KOH,"0,1","0,1",20,"12,96","-0,366","0,441","37,6",,"0,2","-0,506","0,301","0,807"
 101,https://doi.org/10.1007/s10800-018-1155-9,2018,Au1Ni1/C,Au_Ni_C,Au_Ni_C,Hg/HgO,Sat.,GCE,C,KOH,"0,1","0,1",20,"12,96","-0,425","0,396","32,6",,"0,2","-0,565","0,256","0,821"
 102,https://doi.org/10.1039/C5RA17172E,2015,Pt/ATCP–CP–BZD–CNT ,Pt_Org,Pt_C_N_O_H,SCE,sat.,GE,C,KOH,"0,5","0,5",50,"13,56","-0,64","-0,05",,,,"-0,396","0,194","0,59"
