@@ -297,7 +297,7 @@ Number,DOI,year,Material (accurate),Material,Material(element),RE,RE_C,WE(substr
 147,https://doi.org/10.1149/2.0821811jes,2018,Pt-CeO2/porous PANI,Pt_Ce_O_Org,Pt_Ce_O_C_N_O_H,RHE,standard,GCE,C,H2SO4,"0,5","0,5",100,"0,24","0,686","0,91","30,478",,,"0,67184","0,89584","0,224"
 148,https://doi.org/10.1149/06403.1061ecst,2014,Pd/Vulcan,Pd_VC,Pd_C,SHE,standard,GCE,C,KOH,"0,5","0,5",20,"13,56","-0,152","0,121","8,277",,,"-0,152","0,121","0,273"
 148,https://doi.org/10.1149/06403.1061ecst,2014,PdAu/OMCf2,Pd_Au_OMC,Pd_Au_C,SHE,standard,GCE,C,KOH,"0,5","0,5",20,"13,56","-0,172","0,153","17,367",,,"-0,172","0,153","0,325"
-148,https://doi.org/10.1149/06403.1061ecst,2014,PdAu/MWCNTf1,Pd_Au_CNT,Pd_Au_C,SHE,standard,GCE,C,KOH,"0,5","0,5",20,"13,56","-0,2","0,131","15,261",,,"-0,2","0,131","0,331"
+148,https://doi.org/10.1149/06403.1061ecst,2014,PdAu/MWCNTf1,Pd_Au_CNT,Pd_Au_C,SHE,,GCE,C,KOH,"0,5","0,5",20,"13,56","-0,2","0,131","15,261",,,"-0,2","0,131","0,331"
 149,https://doi.org/10.1016/j.apcatb.2016.06.072,2017," Sb/Pt/C, ?Sb�=�0.81",Sb_Pt_C,Sb_Pt_C,RHE,,GCE,C,HClO4,"0,1","0,2",50,"0,59","0,31","0,639",,,,"0,27519","0,60419","0,329"
 150,https://doi.org/10.1016/j.jcis.2017.08.059,2018,Au@AuPd NFs/rGO�,Au_Au_Pd_rGO,Au_Pd_C,SCE,,GCE,C,KOH,"0,5","0,5",50,"13,56","-0,335","-0,076","69,522",,,"-0,091","0,168","0,259"
 151,https://doi.org/10.1016/j.ijhydene.2016.12.100,2017,PdCu,Pd_Cu,Pd_Cu,RHE,,GCE,C,KOH,"0,5","0,5",50,"13,56","-0,06","0,165","21,6",,,"-0,86004","-0,63504","0,225"
