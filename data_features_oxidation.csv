@@ -1,4 +1,4 @@
-pH,scan_rate,current_density,onset_pot,ox_pot,Ox_Onset,A_concentration,El_conc,E1,E2,E3,E4,G,OH,Org,rGO,CNT,E1_av,E2_av,E3/4_av,Electrolyte,RE,WE_Au,WE_CC,WE_CF,WE_CP,WE_FTO,WE_GCD,WE_GCE,WE_GE,WE_NPSS,WE_Ni,WE_Pt,WE_SELF,WE_Ti
+pH,scan_rate,current_density,onset_pot,ox_pot,ox_onset,A_concentration,El_conc,E1,E2,E3,E4,G,OH,Org,rGO,CNT,E1_av,E2_av,E3/4_av,Electrolyte,RE,WE_Au,WE_CC,WE_CF,WE_CP,WE_FTO,WE_GCD,WE_GCE,WE_GE,WE_NPSS,WE_Ni,WE_Pt,WE_SELF,WE_Ti
 13.79,10,42.7,-406,214,0.62,1,1,78,28,8,0,0,0,0,0,0,5.5419675,4.3985196,3.769790075,4,4,0,0,0,0,0,0,0,0,0,0,0,0,1
 0.59,50,425,0.64519,0.80519,0.16,0.2,0.5,78,0,0,0,0,0,0,0,0,5.5419675,0,0.0,0,4,0,0,0,0,0,0,0,0,0,0,1,0,0
 13.79,5,55,476,644,168,1,1,28,27,8,0,1,0,0,0,0,4.3985196,4.2716375,3.769790075,5,5,0,0,0,0,0,0,0,1,0,0,0,0,0
